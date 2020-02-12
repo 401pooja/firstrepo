@@ -2,11 +2,8 @@ in this demo we are understanding about recurssive merge
 when changes are done to the master barnch while worjk9ing with
 multiple branches
 while merging it will not be abpout Fast forwords
-adding a new line in this file from
-master branch.................
-....................
-..........
-......
-...
-..
-.
+<<<<<<< HE
+
+we are going to create conflict
+by changing data in this file.
+>>>>>>> branch1
