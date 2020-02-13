@@ -7,3 +7,4 @@ while merging it will not be abpout Fast forwords
 we are going to create conflict
 by changing data in this file.
 >>>>>>> branch1
+A new line in demo branch in the file test.txt
